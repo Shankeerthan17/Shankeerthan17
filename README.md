@@ -36,7 +36,7 @@ A place to explore my work and connect with me. [View the source](https://github
 ## Learning & milestones
 
 - **Dean's List:** Year 1 Semester 1 (2025) and Semester 2 (2026), SLIIT.
-- **AI/ML Engineer — Stage 01:** SLIIT certification program (2026).
+- **AI/ML Engineer - Stage 01:** SLIIT certification program (2026).
 - **NoviTech R&D:** completed 30-day internship programs in Data Analytics, Artificial Intelligence, Python Programming, and Machine Learning (2025).
 
 ## Let's connect
