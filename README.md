@@ -10,7 +10,7 @@
 
 <img src="assets/divider.gif" width="100%" alt="" />
 
-<h2 align="center">Curiosity → Data → Insights</h2>
+<h2 align="center"><img src="assets/heading-curiosity.gif" width="600" alt="Curiosity → Data → Insights" /></h2>
 
 <table>
 <tr>
@@ -25,6 +25,8 @@ I'm a second-year **BSc (Hons) in Information Technology** undergraduate at **SL
 - **Learning through:** practical projects, problem-solving, and collaboration.
 - **Open to:** IT internship opportunities where I can contribute and grow.
 
+<br />
+
 </td>
 <td width="56%" align="center" valign="middle">
 <img src="assets/workspace.gif" width="100%" alt="Animated data workspace with synchronized bars and graph line, Shankeerthan S typing below analyze(data) on the laptop, terminal typing, rain and coffee steam" />
@@ -34,7 +36,7 @@ I'm a second-year **BSc (Hons) in Information Technology** undergraduate at **SL
 
 <img src="assets/divider.gif" width="100%" alt="" />
 
-<h2 align="center">Technologies & Tools</h2>
+<h2 align="center"><img src="assets/heading-tools.png" width="600" alt="Technologies & Tools" /></h2>
 
 <p align="center"><img src="assets/tech-stack.gif" width="100%" alt="Animated icons: Python, Java, JavaScript, Spring Boot, MySQL, Git, GitHub, IntelliJ IDEA, VS Code, and Adobe Photoshop" /></p>
 
@@ -42,7 +44,7 @@ I'm a second-year **BSc (Hons) in Information Technology** undergraduate at **SL
 
 <img src="assets/divider.gif" width="100%" alt="" />
 
-<h2 align="center">Selected Projects</h2>
+<h2 align="center"><img src="assets/heading-projects.png" width="600" alt="Selected Projects" /></h2>
 
 ### Event Photography & Videography Booking System
 
@@ -58,7 +60,7 @@ My projects, skills, and professional journey in one place.
 
 <img src="assets/divider.gif" width="100%" alt="" />
 
-<h2 align="center">Learning & Achievements</h2>
+<h2 align="center"><img src="assets/heading-achievements.png" width="600" alt="Learning & Achievements" /></h2>
 
 | Milestone | Details |
 | :--- | :--- |
@@ -68,7 +70,7 @@ My projects, skills, and professional journey in one place.
 
 <img src="assets/divider.gif" width="100%" alt="" />
 
-<h2 align="center">Let's Connect</h2>
+<h2 align="center"><img src="assets/heading-connect.png" width="600" alt="Let's Connect" /></h2>
 
 <p align="center">Interested in internships, collaborative projects, and conversations about data and software.</p>
 
