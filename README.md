@@ -50,7 +50,7 @@ I'm a second-year **BSc (Hons) in Information Technology** undergraduate at **SL
 
 A **Java, Spring Boot & MySQL** booking platform with REST APIs and role-based access.
 
-**[Explore the repository →]([https://github.com/Shankeerthan17/Event-Photography-and-Videography-Booking-System](https://github.com/IT25100040/Event_Photography_and_Videography_Booking_System.git))**
+**[Explore the repository →](https://github.com/Shankeerthan17/Event-Photography-and-Videography-Booking-System)**
 
 ### Personal Portfolio
 
