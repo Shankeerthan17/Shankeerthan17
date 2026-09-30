@@ -27,7 +27,7 @@ I'm a second-year **BSc (Hons) in Information Technology** undergraduate at **SL
 
 </td>
 <td width="56%" align="center" valign="middle">
-<img src="assets/workspace.gif" width="100%" alt="Original animated data workspace with live charts, terminal typing, rain and coffee steam" />
+<img src="assets/workspace.gif" width="100%" alt="Animated data workspace with synchronized bars and graph line, Shankeerthan S typing below model training, terminal typing, rain and coffee steam" />
 </td>
 </tr>
 </table>
