@@ -12,11 +12,13 @@
   <a href="mailto:shankeerthan111@gmail.com"><img src="assets/email.gif" width="96" alt="Email" /></a>
 </p>
 
-<img src="assets/divider.gif" width="100%" alt="" />
-
-<p align="center"><img src="assets/heading-curiosity.gif" width="520" alt="Curiosity → Data → Insights" /></p>
-
-<img src="assets/divider.gif" width="100%" alt="" />
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/heading-curiosity-mobile.gif" />
+    <source media="(max-width: 1024px)" srcset="assets/heading-curiosity-tablet.gif" />
+    <img src="assets/heading-curiosity.gif" width="100%" alt="Curiosity → Data → Insights" />
+  </picture>
+</p>
 
 ### Hello, I'm Shankeerthan
 
@@ -84,7 +86,7 @@ I'm a second-year **BSc (Hons) in Information Technology** undergraduate at **SL
 
 A **Java, Spring Boot & MySQL** booking platform with REST APIs and role-based access.
 
-**[Explore the repository →](https://github.com/IT25100040/Event_Photography_and_Videography_Booking_System.git)**
+**[Explore the repository →](https://github.com/Shankeerthan17/Event-Photography-and-Videography-Booking-System)**
 
 ### Personal Portfolio
 
@@ -98,11 +100,11 @@ My projects, skills, and professional journey in one place.
 
 <h2 align="center">Learning & Achievements</h2>
 
-### Dean's List - SLIIT
+### Dean's List — SLIIT
 
 Year 1 Semester 1 (2025) and Semester 2 (2026).
 
-### AI/ML Engineer - Stage 01
+### AI/ML Engineer — Stage 01
 
 SLIIT certification program, 2026.
 
