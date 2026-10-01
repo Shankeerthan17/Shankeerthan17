@@ -88,11 +88,11 @@ My projects, skills, and professional journey in one place.
 
 <h2 align="center">Learning & Achievements</h2>
 
-### Dean's List — SLIIT
+### Dean's List - SLIIT
 
 Year 1 Semester 1 (2025) and Semester 2 (2026).
 
-### AI/ML Engineer — Stage 01
+### AI/ML Engineer - Stage 01
 
 SLIIT certification program, 2026.
 
