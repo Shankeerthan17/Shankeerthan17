@@ -1,6 +1,19 @@
+<h1 align="center">Shankeerthan Srinivasan</h1>
+
+<p align="center"><strong>IT Undergraduate · SLIIT · Sri Lanka</strong></p>
+
+<p align="center">Data Science · Machine Learning · Software Development</p>
+
+<p align="center"><sub>Learn with purpose. Build with care.</sub></p>
+
+<details>
+<summary>View animated profile banner</summary>
+
 <p align="center">
-  <img src="assets/header.gif" width="100%" alt="Shankeerthan Srinivasan — IT undergraduate interested in data science, machine learning and software development" />
+  <img src="assets/header.gif" width="100%" alt="Shankeerthan Srinivasan — animated profile banner" />
 </p>
+
+</details>
 
 <p align="center">
   <a href="https://shankeerthan17.github.io/Portfolio/"><img src="assets/portfolio.gif" width="96" alt="Portfolio" /></a>
@@ -74,7 +87,7 @@ I'm a second-year **BSc (Hons) in Information Technology** undergraduate at **SL
 
 A **Java, Spring Boot & MySQL** booking platform with REST APIs and role-based access.
 
-**[Explore the repository →](https://github.com/IT25100040/Event_Photography_and_Videography_Booking_System.git)**
+**[Explore the repository →](https://github.com/Shankeerthan17/Event-Photography-and-Videography-Booking-System)**
 
 ### Personal Portfolio
 
@@ -88,11 +101,11 @@ My projects, skills, and professional journey in one place.
 
 <h2 align="center">Learning & Achievements</h2>
 
-### Dean's List - SLIIT
+### Dean's List — SLIIT
 
 Year 1 Semester 1 (2025) and Semester 2 (2026).
 
-### AI/ML Engineer - Stage 01
+### AI/ML Engineer — Stage 01
 
 SLIIT certification program, 2026.
 
