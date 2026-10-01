@@ -1,19 +1,10 @@
-<h1 align="center">Shankeerthan Srinivasan</h1>
-
-<p align="center"><strong>IT Undergraduate · SLIIT · Sri Lanka</strong></p>
-
-<p align="center">Data Science · Machine Learning · Software Development</p>
-
-<p align="center"><sub>Learn with purpose. Build with care.</sub></p>
-
-<details>
-<summary>View animated profile banner</summary>
-
 <p align="center">
-  <img src="assets/header.gif" width="100%" alt="Shankeerthan Srinivasan — animated profile banner" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/header-mobile.gif" />
+    <source media="(max-width: 1024px)" srcset="assets/header-tablet.gif" />
+    <img src="assets/header.gif" width="100%" alt="Shankeerthan Srinivasan — IT undergraduate at SLIIT, Sri Lanka, interested in Data Science, Machine Learning and Software Development" />
+  </picture>
 </p>
-
-</details>
 
 <p align="center">
   <a href="https://shankeerthan17.github.io/Portfolio/"><img src="assets/portfolio.gif" width="96" alt="Portfolio" /></a>
@@ -23,9 +14,7 @@
 
 <img src="assets/divider.gif" width="100%" alt="" />
 
-<h2 align="center">Curiosity → Data → Insights</h2>
-
-<p align="center"><img src="assets/divider.gif" width="100%" alt="" /></p>
+<h3 align="center">Curiosity → Data → Insights</h3>
 
 ### Hello, I'm Shankeerthan
 
