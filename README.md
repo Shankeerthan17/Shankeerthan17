@@ -35,7 +35,7 @@ I'm a second-year **BSc (Hons) in Information Technology** undergraduate at **SL
 
 <h2 align="center">Technologies & Tools</h2>
 
-<p align="center"><strong>Programming</strong></p>
+<h3 align="center">Programming</h3>
 <p align="center">
   <img src="assets/icons/python.svg" width="48" height="48" alt="Python" /> &nbsp;
   <img src="assets/icons/java.svg" width="48" height="48" alt="Java" /> &nbsp;
@@ -43,14 +43,18 @@ I'm a second-year **BSc (Hons) in Information Technology** undergraduate at **SL
 </p>
 <p align="center">Python · Java · JavaScript</p>
 
-<p align="center"><strong>Backend & Databases</strong></p>
+<hr />
+
+<h3 align="center">Backend & Databases</h3>
 <p align="center">
   <img src="assets/icons/spring.svg" width="48" height="48" alt="Spring Boot" /> &nbsp;
   <img src="assets/icons/mysql.svg" width="48" height="48" alt="MySQL" />
 </p>
 <p align="center">Spring Boot · MySQL</p>
 
-<p align="center"><strong>Development Tools</strong></p>
+<hr />
+
+<h3 align="center">Development Tools</h3>
 <p align="center">
   <img src="assets/icons/git.svg" width="48" height="48" alt="Git" /> &nbsp;
   <img src="assets/icons/github.svg" width="48" height="48" alt="GitHub" /> &nbsp;
@@ -59,7 +63,9 @@ I'm a second-year **BSc (Hons) in Information Technology** undergraduate at **SL
 </p>
 <p align="center">Git · GitHub · IntelliJ IDEA · VS Code</p>
 
-<p align="center"><strong>Design</strong></p>
+<hr />
+
+<h3 align="center">Design</h3>
 <p align="center"><img src="assets/icons/photoshop.svg" width="48" height="48" alt="Adobe Photoshop" /></p>
 <p align="center">Adobe Photoshop</p>
 
@@ -78,7 +84,7 @@ I'm a second-year **BSc (Hons) in Information Technology** undergraduate at **SL
 
 A **Java, Spring Boot & MySQL** booking platform with REST APIs and role-based access.
 
-**[Explore the repository →](https://github.com/IT25100040/Event_Photography_and_Videography_Booking_System.git)**
+**[Explore the repository →](https://github.com/Shankeerthan17/Event-Photography-and-Videography-Booking-System)**
 
 ### Personal Portfolio
 
@@ -92,11 +98,11 @@ My projects, skills, and professional journey in one place.
 
 <h2 align="center">Learning & Achievements</h2>
 
-### Dean's List - SLIIT
+### Dean's List — SLIIT
 
 Year 1 Semester 1 (2025) and Semester 2 (2026).
 
-### AI/ML Engineer - Stage 01
+### AI/ML Engineer — Stage 01
 
 SLIIT certification program, 2026.
 
