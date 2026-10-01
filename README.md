@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.gif" width="100%" alt="Srinivasan Shankeerthan — IT undergraduate interested in data science, machine learning and software development" />
+  <img src="assets/header.gif" width="100%" alt="Shankeerthan Srinivasan — IT undergraduate interested in data science, machine learning and software development" />
 </p>
 
 <p align="center">
