@@ -14,7 +14,9 @@
 
 <img src="assets/divider.gif" width="100%" alt="" />
 
-<h3 align="center">Curiosity → Data → Insights</h3>
+<p align="center"><img src="assets/heading-curiosity.gif" width="520" alt="Curiosity → Data → Insights" /></p>
+
+<img src="assets/divider.gif" width="100%" alt="" />
 
 ### Hello, I'm Shankeerthan
 
