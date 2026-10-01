@@ -86,7 +86,7 @@ I'm a second-year **BSc (Hons) in Information Technology** undergraduate at **SL
 
 A **Java, Spring Boot & MySQL** booking platform with REST APIs and role-based access.
 
-**[Explore the repository →](https://github.com/Shankeerthan17/Event-Photography-and-Videography-Booking-System)**
+**[Explore the repository →](https://github.com/IT25100040/Event_Photography_and_Videography_Booking_System.git)**
 
 ### Personal Portfolio
 
@@ -100,11 +100,11 @@ My projects, skills, and professional journey in one place.
 
 <h2 align="center">Learning & Achievements</h2>
 
-### Dean's List — SLIIT
+### Dean's List - SLIIT
 
 Year 1 Semester 1 (2025) and Semester 2 (2026).
 
-### AI/ML Engineer — Stage 01
+### AI/ML Engineer - Stage 01
 
 SLIIT certification program, 2026.
 
