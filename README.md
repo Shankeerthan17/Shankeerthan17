@@ -82,6 +82,18 @@ I'm a second-year **BSc (Hons) in Information Technology** undergraduate at **SL
 
 <h2 align="center">Selected Projects</h2>
 
+### Predicting Concrete Compressive Strength Using Machine Learning
+
+A **Python, Flask & Scikit-learn** machine learning web application that predicts concrete compressive strength using six regression models, with data preprocessing, feature selection, PCA, hyperparameter tuning, and interactive model performance comparisons.
+
+**[Explore the repository →](https://g)**
+
+### Web-Based Apartment Sales System – Living Ora
+
+A **Java, Spring Boot & MySQL** apartment sales platform with property listings, reservations, promotions, payment tracking, and role-based access.
+
+**[Explore the repository →](https://g)**
+
 ### Event Photography & Videography Booking System
 
 A **Java, Spring Boot & MySQL** booking platform with REST APIs and role-based access.
