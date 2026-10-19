@@ -22,7 +22,7 @@
 
 ### Hello, I'm Shankeerthan
 
-I'm a second-year **BSc (Hons) in Information Technology** undergraduate at **SLIIT**, Sri Lanka.
+I'm a second-year **BSc (Hons) in Information Technology – Specialization in Data Science** undergraduate at **SLIIT**, Sri Lanka.
 
 - **Primary interests:** Data Science, Data Analytics, and Machine Learning.
 - **Also building:** web applications and REST APIs with Java, Spring Boot, and MySQL.
