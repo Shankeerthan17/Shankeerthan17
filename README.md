@@ -86,13 +86,13 @@ I'm a second-year **BSc (Hons) in Information Technology** undergraduate at **SL
 
 A **Python, Flask & Scikit-learn** machine learning web application that predicts concrete compressive strength using six regression models, with data preprocessing, feature selection, PCA, hyperparameter tuning, and interactive model performance comparisons.
 
-**[Explore the repository →](https://g)**
+**[Explore the repository →](https://github.com/Shankeerthan17/Concrete-Compressive-Strength-Prediction.git)**
 
 ### Web-Based Apartment Sales System – Living Ora
 
 A **Java, Spring Boot & MySQL** apartment sales platform with property listings, reservations, promotions, payment tracking, and role-based access.
 
-**[Explore the repository →](https://g)**
+**[Explore the repository →](https://github.com/Shankeerthan17/Living-Ora-Apartment-Sales-System.git)**
 
 ### Event Photography & Videography Booking System
 
